@@ -1,4 +1,4 @@
-//  Name:Romaisa    Roll No: 24I-0061(AI-B)
+
 
 #include<iostream>
 using namespace std;
