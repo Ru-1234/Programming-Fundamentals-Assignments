@@ -1,5 +1,3 @@
-//Name:Romaisa        Roll_No:24I_0061
-
 #include<iostream>
 using namespace std;
 
