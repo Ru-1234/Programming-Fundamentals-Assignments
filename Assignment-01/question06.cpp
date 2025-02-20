@@ -148,7 +148,7 @@ if(d4==0){
 tehsil="Lawa";
 //union council
 if(d5==3)
-uc="Kot-gulla UC";
+uc=" UC";
 }}}}
 
 else if(d1==4){
