@@ -66,8 +66,6 @@ if( wheels>0 && car_body>0 && figures>0){
               model_F=figures/4;
          }  
 
-/*if(model_F<0)
-model_F=family+model_F;*/
 
  }//bracket of third if
 }//bracket of second if
